@@ -34,24 +34,24 @@ https://www.coursera.org/specializations/mathematics-engineers
 - Project Management – Project Planning and Execution  
 - Project Management – Agile Project Management
 
-### 📘 Specialization 2 – Advanced Embedded Linux Development Specialization (3 credits)
-Prerequisite *1 & *2
-
-- ECEA 5305 Linux System Programming and Introduction to Buildroot (1 credit)
-- ECEA 5306 Linux Kernel Programming and Introduction to Yocto (1 credit)
-- ECEA 5307 Embedded System Topics and Project (1 credit)
+### 📘 Specialization 2 – Embedding Sensors and Motors (3 Units, Pathway)
+Prerequisite *3 & *4
+- ECEA 5340 – Sensors and Sensor Circuit Design (0.8 credits)  
+- ECEA 5341 – Motors and Motor Control Circuits (0.8 credits)  
+- ECEA 5342 – Pressure, Force, Motion, and Humidity Sensors (0.8 credits)  
+- ECEA 5343 – Sensor Manufacturing and Process Control (0.6 credits)
 
 ### 📘 Specialization 3 – Elective (3 Units)
 - Finance for Technical Managers – Product Cost & Investment Cash Flow Analysis  
 - Finance for Technical Managers – Project Valuation and the Capital Budgeting Process  
 - Finance for Technical Managers – Financial Forecasting and Reporting  
 
-### 📘 Specialization 4 – Embedding Sensors and Motors (3 Units, Pathway)
-Prerequisite *3 & *4
-- ECEA 5340 – Sensors and Sensor Circuit Design (0.8 credits)  
-- ECEA 5341 – Motors and Motor Control Circuits (0.8 credits)  
-- ECEA 5342 – Pressure, Force, Motion, and Humidity Sensors (0.8 credits)  
-- ECEA 5343 – Sensor Manufacturing and Process Control (0.6 credits)
+### 📘 Specialization 4 – Advanced Embedded Linux Development Specialization (3 credits)
+Prerequisite *1 & *2
+
+- ECEA 5305 Linux System Programming and Introduction to Buildroot (1 credit)
+- ECEA 5306 Linux Kernel Programming and Introduction to Yocto (1 credit)
+- ECEA 5307 Embedded System Topics and Project (1 credit)
 
 ### 📘 Specialization 5 – Elective (3 Units)
 - Leading Oneself – Leading Oneself with Self-Knowledge  
