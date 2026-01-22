@@ -78,9 +78,9 @@ Prerequisite *1 & *2
 
 ### 📘 Specialization 9 – Developing Industrial Internet of Things
 
-ECEA 5385 Industrial IoT Markets and Security (1 credit)
-ECEA 5386 Project Planning and Machine Learning (1 credit)
-ECEA 5387 Modeling and Debugging Embedded Systems (1 credit)
+- ECEA 5385 Industrial IoT Markets and Security (1 credit)
+- ECEA 5386 Project Planning and Machine Learning (1 credit)
+- ECEA 5387 Modeling and Debugging Embedded Systems (1 credit)
 
 ### 📘 Specialization 10 – Electrical Engineering Specialization (3 Units)
 - Course 28 – TBD  
